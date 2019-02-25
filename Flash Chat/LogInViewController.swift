@@ -19,11 +19,6 @@ class LogInViewController: UIViewController {
         
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-    }
-
-   
     @IBAction func logInPressed(_ sender: AnyObject) {
 
         
